@@ -30,7 +30,7 @@ Given passenger details such as age, gender, and class, predict survival (0 = No
 - Accuracy: 81%
 
 ## 📂 Files
-- titanic.ipynb
+- titanic_survival_prediction.ipynb
 - train.csv / test.csv
 
 ## 👤 Author

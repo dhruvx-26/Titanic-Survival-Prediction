@@ -1,20 +1,37 @@
-# Titanic Survival Prediction 🚢
+# 🚢 Titanic Survival Prediction
 
-## 📌 Problem Statement
-Predict whether a passenger survived the Titanic disaster using machine learning.
+## 📌 Overview
+This project predicts whether a passenger survived the Titanic disaster using machine learning techniques.
 
-## 🛠️ What I Did
-- Performed Exploratory Data Analysis (EDA)
-- Handled missing values
-- Feature Engineering (Title extraction, etc.)
-- Model Building using Logistic Regression
-- Generated submission file for Kaggle
+## 🧠 Problem Statement
+Given passenger details such as age, gender, and class, predict survival (0 = No, 1 = Yes).
 
-## 📊 Model Used
-- Logistic Regression
+## 🔍 Workflow
+- Data Cleaning (handled missing values)
+- Data Analysis & Visualization
+- Feature Engineering
+- Model Training (Logistic Regression / etc.)
+- Model Evaluation
 
-## 🏆 Kaggle Submission
-Submitted to Kaggle Titanic Competition.
+## 📊 Features Used
+- Age
+- Sex
+- Passenger Class (Pclass)
+- Fare
+- Embarked
 
-## 📂 Dataset
-Dataset taken from Kaggle Titanic Competition.
+## 🛠️ Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib
+- Scikit-learn
+
+## 📈 Model Performance
+- Accuracy: 81%
+
+## 📂 Files
+- titanic.ipynb
+- train.csv / test.csv
+
+## 👤 Author
+Dhruv Aanand
